@@ -24,6 +24,7 @@ struct ContentView: View {
 
             Section {
                 Text("Hello my name is Maram")
+                Text("I'm learning SwiftUI at Apple Developer Academy")
             } header: {
                 Text("About")
             }
