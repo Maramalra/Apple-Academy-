@@ -34,6 +34,13 @@ struct ContentView: View {
             } header: {
                 Text("Interests")
             }
+
+            Section {
+                Text("GitHub: Maramalra")
+                Text("Project: ReWear")
+            } header: {
+                Text("Contact")
+            }
         }
     }
 }
