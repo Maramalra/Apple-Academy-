@@ -23,7 +23,7 @@ struct ContentView: View {
             .listRowBackground(Color.clear)
 
             Section {
-                Text("Hello my name is Maram")
+                Text("Hello my name is Marami")
             } header: {
                 Text("About")
             }
